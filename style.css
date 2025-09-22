@@ -1,0 +1,48 @@
+*{
+padding: 0;
+Margin : 0;
+box-sizing: border-box;
+}
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightsteelblue;
+}
+.container{
+    width: 35%;
+    height: fit-content;
+    padding: 1rem;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 15px;
+}
+button{
+    background-color: lightseagreen;
+    padding: 8px 12px;
+    font-size: 1.3rem;
+    color: beige;
+    border: none;
+    border-radius: 30px;
+    margin: 12px 0;
+    max-width: fit-content;
+    cursor: pointer;
+}
+.quote{
+    width: 100%;
+    height: fit-content;
+    margin: 10px 0;
+    /* background-color: aqua; */
+}
+.quote-name{
+    font-size: 1.5rem;
+}
+.quote-author{
+    font-size: 1.3rem;
+    font-style: italic;
+    text-align: end;
+}
