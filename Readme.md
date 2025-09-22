@@ -16,7 +16,6 @@ This app displays a random inspirational/motivational quote each time you click 
 
 ## 📸 Demo
 ![App Screenshot](projectview.png)  
-*(Add a screenshot of your app here if possible)*
 
 ---
 
